@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa175e21-1646-4738-b64c-d056cf3176d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODSOFT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/NumberGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/StudentGradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/AtmInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task5/StudentManagementSystem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ru9mHtp3RDeoyeENWmpDTiqJQD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ATM.executor": "Run",
+    "Application.CurrencyConverter (1).executor": "Run",
+    "Application.CurrencyConverter (2).executor": "Run",
+    "Application.CurrencyConverter (3).executor": "Run",
+    "Application.CurrencyConverter.executor": "Run",
+    "Application.NumberGame.executor": "Run",
+    "Application.NumberGuessingGame.executor": "Run",
+    "Application.StudentGradeCalculator.executor": "Run",
+    "Application.StudentManagementSystem (1).executor": "Run",
+    "Application.StudentManagementSystem.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.StudentManagementSystem (1)">
+    <configuration name="CurrencyConverter (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4.CurrencyConverter" />
+      <module name="CODSOFT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyConverter (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4.CurrencyConverter" />
+      <module name="CODSOFT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4.CurrencyConverter" />
+      <module name="CODSOFT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManagementSystem (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task5.StudentManagementSystem" />
+      <module name="CODSOFT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task5.StudentManagementSystem" />
+      <module name="CODSOFT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentManagementSystem (1)" />
+        <item itemvalue="Application.StudentManagementSystem" />
+        <item itemvalue="Application.CurrencyConverter" />
+        <item itemvalue="Application.CurrencyConverter (3)" />
+        <item itemvalue="Application.CurrencyConverter (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa175e21-1646-4738-b64c-d056cf3176d3" name="Changes" comment="" />
+      <created>1737398252503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737398252503</updated>
+    </task>
+    <servers />
+  </component>
+</project>
